@@ -16,7 +16,7 @@ const services = [
   {
     title: "Reparo de Computadores e Notebooks",
     description:
-      "Diagnósticos e reparos em computadores e notebooks que apresentam problemas de inicialização.",
+      "Diagnósticos e reparos em computadores e notebooks que apresentam problemas de hardware ou software.",
     image: "https://via.placeholder.com/150/009688/FFFFFF?text=Conserto",
   },
   {
@@ -64,6 +64,13 @@ export const Services = () => {
         padding: 4,
       }}
     >
+    <Box 
+      sx={{
+        width: "90vw",
+      }}>
+      <img style={{objectFit: "cover", width: "90vw", height: "60vh"}} src="src\assets\images\wallpaperServices.jpg"></img>
+    </Box>
+
       <Typography variant="h4" gutterBottom color="primary">
         Nossos Serviços
       </Typography>

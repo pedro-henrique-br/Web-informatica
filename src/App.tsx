@@ -2,7 +2,7 @@ import './App.css'
 import { Box, Typography } from '@mui/material'
 import { Contact } from './components/contact/Contact'
 import { Nav } from './components/nav/Nav'
-import { Services } from './components/services/Servies'
+import { Services } from './components/services/Services'
 
 function App() {
 
