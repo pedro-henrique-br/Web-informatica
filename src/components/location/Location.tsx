@@ -61,7 +61,7 @@ export const Location = () => {
                 fontWeight: "600",
               }}>
               <TiLocation size={26} color={"#F50000"} /> Rua Padre João
-              Francisco de Siqueira Andrade<br></br>n° 41 - Jacareí/São Paulo
+              Francisco de Siqueira Andrade <br></br>- Jacareí/São Paulo
             </Typography>
           </Box>
         </Box>
