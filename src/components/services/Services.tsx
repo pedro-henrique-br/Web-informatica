@@ -27,9 +27,9 @@ const services = [
     image: "/assets/images/manutencao-computador.jpg",
   },
   {
-    title: "Remoções de Vírus",
+    title: "Remoção de Vírus",
     description:
-      "Eliminamos malwares e vírus que possam comprometer a segurança dos seus dados.",
+      "Eliminamos malwares e vírus que possam comprometer a segurança dos seus dados e equipamento.",
     image: "/assets/images/malware.webp",
   },
   {
@@ -53,7 +53,7 @@ export const Services = () => {
       }}
     >
       <Typography variant="h4" gutterBottom  sx={{marginTop: "4vh", fontFamily: "Montserrat", textTransform: "capitalize", color: "#EEEEEE", fontWeight: "600"}}>
-        Nossos Servicos
+        Nossos Serviços
       </Typography>
       <Box
         sx={{
