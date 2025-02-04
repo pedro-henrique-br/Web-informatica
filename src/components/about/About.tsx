@@ -9,7 +9,7 @@ export const About = () => {
       display: "flex",
       alignItems: "flex-Start",
       justifyContent: "center",
-      height: "75vh"
+      height: "75%"
     }}>
       <Box
       sx={{
