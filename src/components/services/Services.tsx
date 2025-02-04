@@ -6,37 +6,37 @@ const services = [
     title: "Recuperação de Dados",
     description:
       "Trabalhamos na recuperação de dados perdidos em dispositivos com problemas, garantindo que suas informações importantes sejam salvas.",
-    image: "src/assets/images/recupDeDados.jpg",
+    image: "public/assets/images/recupDeDados.jpg",
   },
   {
     title: "Configurações de Dispositivos Wireless",
     description:
       "Realizamos a configuração de redes sem fio, assegurando uma conexão estável e segura para todos os seus dispositivos.",
-    image: "src/assets/images/roteador.webp",
+    image: "public/assets/images/roteador.webp",
   },
   {
     title: "Upgrade de Equipamentos",
     description:
       "Melhoramos a performance dos seus dispositivos com upgrades de hardware, como instalação de mais memória RAM ou troca de HD por SSD.",
-    image: "src/assets/images/pcgamer.jpg",
+    image: "public/assets/images/pcgamer.jpg",
   },
   {
     title: "Reparo de Computadores e Notebooks",
     description:
       "Diagnósticos e reparos em computadores e notebooks que apresentam problemas de hardware ou software.",
-    image: "src/assets/images/manutencao-computador.jpg",
+    image: "public/assets/images/manutencao-computador.jpg",
   },
   {
     title: "Remoções de Vírus",
     description:
       "Eliminamos malwares e vírus que possam comprometer a segurança dos seus dados.",
-    image: "src/assets/images/malware.webp",
+    image: "public/assets/images/malware.webp",
   },
   {
     title: "Formatação e Backups de Informações",
     description:
       "Implementamos soluções de backup para proteger suas informações importantes contra perda.",
-    image: "src/assets/images/win11.webp",
+    image: "public/assets/images/win11.webp",
   },
 ];
 
