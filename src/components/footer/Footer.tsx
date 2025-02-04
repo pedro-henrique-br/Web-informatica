@@ -40,7 +40,7 @@ export const Footer = () => {
 
         <Grid item xs={12} md={4}>
           <Typography variant="h6" color="#fff">Contato</Typography>
-          <Typography variant="body2" color="#CECECE">Rua Padre João Francisco de Siqueira Andrade<br></br>n° 41 - Jacareí/São Paulo</Typography>
+          <Typography variant="body2" color="#CECECE">Rua Padre João Francisco de Siqueira Andrade<br></br> - Jacareí/São Paulo</Typography>
           <Typography variant="body2" color="#CECECE">pedro.barbosac85@gmail.com</Typography>
           <Typography variant="body2" color="#CECECE">(12) 98893-3305</Typography>
 
