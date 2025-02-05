@@ -1,6 +1,6 @@
 import { Box, Typography, Link, Grid } from '@mui/material';
 import { styled } from '@mui/material/styles';
-import { Facebook, Instagram, WhatsApp } from '@mui/icons-material';
+import { Instagram, WhatsApp } from '@mui/icons-material';
 
 const FooterContainer = styled(Box)(({ theme }) => ({
   backgroundColor: '#f8f8f8',
