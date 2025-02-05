@@ -41,12 +41,10 @@ export const Footer = () => {
         <Grid item xs={12} md={4}>
           <Typography variant="h6" color="#fff">Contato</Typography>
           <Typography variant="body2" color="#CECECE">Rua Padre João Francisco de Siqueira Andrade<br></br> - Jacareí/São Paulo</Typography>
-          <Typography variant="body2" color="#CECECE">pedro.barbosac85@gmail.com</Typography>
           <Typography variant="body2" color="#CECECE">(12) 98893-3305</Typography>
 
           <Box mt={1}>
-            <SocialIcon href="" target="_blank" rel="noopener noreferrer"><Facebook /></SocialIcon>
-            <SocialIcon href="" target="_blank" rel="noopener noreferrer"><Instagram /></SocialIcon>
+            <SocialIcon href="https://www.instagram.com/california_informatica/" target="_blank" rel="noopener noreferrer"><Instagram /></SocialIcon>
             <SocialIcon href="https://wa.me/12988933305" target="_blank" rel="noopener noreferrer"><WhatsApp /></SocialIcon>
           </Box>
         </Grid>
